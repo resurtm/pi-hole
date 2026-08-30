@@ -3,3 +3,6 @@ www.reddit.com
 styles.redditmedia.com
 redditstatic.com
 www.redditstatic.com
+external-preview.redd.it
+preview.redd.it
+cf.preview.redd.it
