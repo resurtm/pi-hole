@@ -1,4 +1,3 @@
-*.swiftkey.com
 adnxs.com
 api-cdn.swiftkey.com
 api.bing.com
@@ -17,7 +16,6 @@ c.msn.com
 cdn.swiftkey.com
 clientconfig.passport.net
 cloud.swiftkey.net
-config.edge.skype.com
 config.edge.skype.com
 config.swiftkey.com
 content.swiftkey.com
@@ -41,13 +39,10 @@ oca.telemetry.microsoft.com
 pipe.skype.com
 prediction.swiftkey.com
 self.events.data.microsoft.com
-self.events.data.microsoft.com
-settings-win.data.microsoft.com
 settings-win.data.microsoft.com
 sqm.telemetry.microsoft.com
 stats.swiftkey.com
 substrate.swiftkey.net
-swiftkey.com
 swiftkey.com
 swiftkey.net
 sync.swiftkey.com
@@ -55,10 +50,8 @@ telemetry.microsoft.com
 telemetry.swiftkey.com
 themes.swiftkey.com
 vortex-win.data.microsoft.com
-vortex-win.data.microsoft.com
 vortex.data.microsoft.com
-vortex.data.microsoft.com
-watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 www.bing.com
 www.swiftkey.com
+||swiftkey.com^
