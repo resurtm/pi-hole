@@ -3,4 +3,4 @@
 ||cdninstagram.com^
 ||rutracker.org^
 ||whatsapp.com^
-||mozilla.cloudflare-dns.com^
+mozilla.cloudflare-dns.com
