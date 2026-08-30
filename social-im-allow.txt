@@ -12,3 +12,4 @@ packaged-media.redd.it
 i.redd.it
 v.redd.it
 emoji.redditmedia.com
+@@||wss.redditmedia.com^
