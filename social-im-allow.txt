@@ -6,3 +6,5 @@ www.redditstatic.com
 external-preview.redd.it
 preview.redd.it
 cf.preview.redd.it
+gql-fed.reddit.com
+gql-realtime.reddit.com
