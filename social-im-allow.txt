@@ -9,3 +9,5 @@ cf.preview.redd.it
 gql-fed.reddit.com
 gql-realtime.reddit.com
 packaged-media.redd.it
+i.redd.it
+v.redd.it
