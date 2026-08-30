@@ -1,3 +1,4 @@
 reddit.com
 www.reddit.com
 styles.redditmedia.com
+www.redditstatic.com
