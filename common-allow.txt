@@ -1,6 +1,6 @@
-||newrelic.com^
-||onenr.io^
-||cdninstagram.com^
-||rutracker.org^
-||whatsapp.com^
+@@||newrelic.com^
+@@||onenr.io^
+@@||cdninstagram.com^
+@@||rutracker.org^
+@@||whatsapp.com^
 mozilla.cloudflare-dns.com
