@@ -1,1 +1,3 @@
 ||translate.google.com^
+||lieferando.com^
+||lieferando.de^
